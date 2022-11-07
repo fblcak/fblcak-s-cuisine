@@ -2,7 +2,7 @@
 
 ```
 
-**A HTML CSS Project**. Mede with ♥ by web cifar community <br>
+**A HTML CSS Project**. Mede with ♥  <br>
 live Preview: [Click Me](https://fblcak.github.io/fblcak-s-cuisine/)
 
 ![](./readmeImg/banner.png)
