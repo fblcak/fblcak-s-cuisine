@@ -39,10 +39,10 @@ li {
 
 
 h4 {
+  color: black;
   font-style: italic;
   font: 50px "Monaco", monospace;
   text-align: center;
-  color: black;
 }
 
 
@@ -50,6 +50,7 @@ h5 {
   font-style: italic;
   font: 30px "Monaco", monospace;
   font: 80px "Monaco", monospace;
+  text-align: center
 }
 
 .head {
