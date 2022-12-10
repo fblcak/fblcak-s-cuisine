@@ -1,39 +1,39 @@
 body {
   background-color: #10A19D
-}
 
-h1 {
-  letter-spacing: 3px;
-  text-transform: uppercase;
-  font: 100px "Monaco", monospace;
-  font-style: italic;
-  color: #10A19D;
-  text-align: center;
-}
-
-
-marquee {
-  font-family: "Montserrat-black"
 
 }
+ .head, h1 {
+background-color: #10A19D;
+letter-spacing: 3px;
+text-transform: uppercase;
+font: 200px "Monaco", monospace;
+font-style: italic;
+color: #111;
+text-align: center;
+width: 100%;
+height: 20%;
+}
+
+
 
 h2 {
-  letter-spacing: 3px;
+  letter-spacing: 1px;
   text-transform: uppercase;
-  font: 30px "Monaco", monospace;
+  font: 40px "Monaco", monospace;
   font-style: italic;
-  color: white;
+  color: black;
   text-align: center;
 }
 
 
 
 h3 {
-color: white;
+color: black;
 }
 
 li {
-  color: white;
+  color: black;
 }
 
 
@@ -42,28 +42,72 @@ h4 {
   font-style: italic;
   font: 50px "Monaco", monospace;
   text-align: center;
-  color: white;
-}
-
-u {
-  color: white;
+  color: black;
 }
 
 
-
-
-hr {
-  border-style: none;
-  border-top-style:  dashed;
-  border-color: white;
-  border-width: 30px;
-  width: 60%
+h5 {
+  font-style: italic;
+  font: 30px "Monaco", monospace;
+  font: 80px "Monaco", monospace;
 }
 
-p {
-  color: white;
+.head {
+  background-color: black;
+  height: 2%;
+  width: 100%;
+  position: absolute;
 }
 
+.top {
+  position: absolute;
+  top: 5px;
+  height: 5%;
+  width: 100%;
+  text-align: right;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  font: 100px "Monaco", monospace;
+  color: black;
+  background-color: inherit;
+}
+
+
+down {
+  position: absolute;
+  height: 5%;
+  width: 100%;
+  text-align: center;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  font: 100px "Monaco", monospace;
+  color: black;
+  background-color: inherit;
+}
+
+
+.back {
+position: absolute;
+}
+
+.mid {
+  top: 50px;
+  position: absolute;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font: 30px "Monaco", monospace;
+  font-style: italic;
+  color: black;
+}
+
+
+
+.scroll{
+  height: 20px;
+  width: 50px;
+  color: blue;
+}
 
 
 
@@ -73,27 +117,6 @@ p {
   height: 10%;
 }
 
-.top {
-  position: absolute;
-  top: 1%;
-  height: 5%;
-  width: 100%;
-  text-align: right;
-  letter-spacing: 5px;
-  text-transform: uppercase;
-  font: 90px "Monaco", monospace;
-  background-color: inherit;
-}
-
-.mid {
-  font-weight: bold;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  font: 70px "Monaco", monospace;
-  font-style: italic;
-  color: #111;
-  text-align: center;
-}
 
 .food {
   margin-left: 0.5px;
@@ -118,6 +141,8 @@ p {
 .tt{
   padding-top: 20px;
   padding-bottom: 20px;
+
+
 }
 .location {
   position: absolute;
