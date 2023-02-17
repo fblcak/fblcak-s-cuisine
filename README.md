@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing
 
-To install **Emezak-Eduhub**, follow these steps:
+To install **fblcak-s-cuisine**, follow these steps:
 
 Linux and macOS:
 
