@@ -32,7 +32,7 @@ git clone https://fblcak.github.io/fblcak-s-cuisine/
 
 ## Contact
 
-Am always available for collaboration , If you want to contact me you can reach me at [Twitter](https://www.twitter.com/Freddyblcak),[Instagram](https://www.instagram.com/freddyalabaster),[Facebook](https://www.facebook.com/FrederickKojoAdzoho),[Linkdin](https://www.linkdin.com/frederick-adzaho)
+Am always available for collaboration , If you want to contact me you can reach me at [Twitter](https://www.twitter.com/Freddyblcak),[Instagram](https://www.instagram.com/freddyalabaster),[Facebook](https://www.facebook.com/FrederickKojoAdzoho),[Linkdin](http:www.linkedin.com/in/frederick-adzaho-7655b4248)
 
 ## License
 
