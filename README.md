@@ -21,7 +21,7 @@ To install **Emezak-Eduhub**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://fblcak.github.io/Emezak-Eduhub/
+sudo git clone https://fblcak.github.io/fblcak-s-cuisine/
 ```
 
 Windows:
